@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Definitions
+# Definitionen
 
 !!! useCallBack: Gibt einen memoisierten Callback zurück.Übergib ein Inline-Callback und ein Array von Abhängigkeiten. useCallback wird eine memoisierte Version des Callbacks zurückgeben, die sich nur dann ändert, wenn sich eine der Abhängigkeiten geändert hat. Das ist nützlich, um Callbacks an optimierte Kindkomponenten zu übergeben, die sich auf gleichbleibende Referenzen verlassen, um unnötigem Rendern vorzubeugen.
 

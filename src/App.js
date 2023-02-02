@@ -1,10 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
+import UseRefComponent from './components/UseRefComponent';
 
 function App() {
   return (
     <div className="App">
-      Hello World
+      <UseRefComponent />
     </div>
   );
 }
